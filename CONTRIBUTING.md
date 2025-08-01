@@ -24,6 +24,7 @@ For the latest stable release and installation instructions, contributors can vi
 - Run the following command to bundle moonbitlang/core:
 
   ```bash
+  mkdir -p ~/.moon/lib/core/target/bundle
   moon bundle --source-dir ~/.moon/lib/core
   ```
 
